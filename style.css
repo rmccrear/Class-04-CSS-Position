@@ -21,7 +21,9 @@ body {
 }
 
 .box-relative {
-  /* position: relative; */
+  position: relative;
+  bottom: 100px;
+  right: 100px;
   width: 150px;
   height: 100px;
   background-color: darkorchid;
